@@ -1,0 +1,15 @@
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\bin\Debug\net7.0\n1.exe
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\bin\Debug\net7.0\n1.deps.json
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\bin\Debug\net7.0\n1.runtimeconfig.json
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\bin\Debug\net7.0\n1.dll
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\bin\Debug\net7.0\n1.pdb
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.csproj.AssemblyReference.cache
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.AssemblyInfoInputs.cache
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.AssemblyInfo.cs
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.csproj.CoreCompileInputs.cache
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.dll
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\refint\n1.dll
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.pdb
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\n1.genruntimeconfig.cache
+D:\GB\znakomstvo_s_yasykami_prog\homework\l2\n1\obj\Debug\net7.0\ref\n1.dll
