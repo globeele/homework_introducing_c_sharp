@@ -7,8 +7,7 @@ int Exponentiation(int numberA, int numberB){
     for(int i=1; i <= numberB; i++){
         result = result * numberA;
         }
-        // int result = Math.Pow(numberA, numberB);
-        return result;
+    return result;
 }
 
   Console.Write("Введите число A: ");
