@@ -2,7 +2,7 @@
 
 0, 7, 8, -2, -2 -> 2
 
-1, -7, 567, 89, 223-> 3*/
+1, -7, 567, 89, 223-> 4 */
 
 Console.Write("Введите элементы(через пробел): ");
 int[] arr = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
